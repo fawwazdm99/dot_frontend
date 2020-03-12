@@ -1,6 +1,7 @@
 # college_tas (college_task)
 
 an application for storing college task
+if it can't be installed you can check the demo at [zerolim.id/college-task](https://zerolim.id/college-task)
 
 ## Install the dependencies
 ```bash
